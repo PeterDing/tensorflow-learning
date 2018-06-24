@@ -91,4 +91,5 @@ def main(args):
 
 
 if __name__ == '__main__':
+    # tf.app.run(main=None, argv=None)
     tf.app.run()
